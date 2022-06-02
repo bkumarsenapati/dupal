@@ -94,7 +94,7 @@ Parameters:
   DBAdminUsername:
     Description: Please enter a username for the Aurora DB that will be created as part of this stack. 
     Type: String
-    Default: admin
+    Default: root
   DBPassword:
     NoEcho: true
     Description: Please enter a password for the Aurora DB that will be created as part of this stack. 
